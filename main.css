@@ -1,0 +1,24 @@
+
+
+body{
+    background-color:#019197;
+    /* color:white; */
+}
+
+#block1{
+    border:2px solid black;
+}
+
+head{
+    margin:auto;
+}
+nav>li{
+    list-style: none;
+    display:inline;
+    float:left;
+}
+a{
+    text-decoration: none;
+    color:white;
+    display:block;
+}
